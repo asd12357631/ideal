@@ -367,7 +367,7 @@
 <v t="leo.20160107100015.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107100015.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160107100015.7"><vh>四設計二乙</vh></v>
-<v t="leo.20160107100015.8"><vh>心得和評分</vh></v>
+<v t="leo.20160107113135.1"><vh>心得和評分</vh></v>
 </v>
 </v>
 <v t="leo.20160107100015.9"><vh>script</vh></v>
@@ -2521,8 +2521,7 @@ g.es("pelican 執行完畢")</t>
 </t>
 <t tx="leo.20160107100010.8">&lt;section&gt;
     &lt;h1&gt;心得和評分&lt;/h1&gt;
-    &lt;p&gt;這次上課得時候,很多東西都不會,但有了同學的幫忙,順利把問題解決了&lt;/br&gt;
-    我給自己的評分:73分&lt;/p&gt;
+    &lt;p&gt;這個禮拜Nutcracker 機構有八個零件，可以讓我們更熟悉如何利用cero parametric繪製零件圖，和組裝，還學到利用Leo Editor更改架網頁，至於熟練度還得需要加強。:71分&lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -2587,8 +2586,7 @@ g.es("pelican 執行完畢")</t>
 </t>
 <t tx="leo.20160107100013.8">&lt;section&gt;
     &lt;h1&gt;心得和評分&lt;/h1&gt;
-    &lt;p&gt;這次上課得時候,很多東西都不會,但有了同學的幫忙,順利把問題解決了&lt;/br&gt;
-    我給自己的評分:73分&lt;/p&gt;
+    &lt;p&gt;這裡拜下載fix檔案，將leo editor 升級至5.1版本，讓我們使用更加快速，開啟C槽start安裝執行分:70分&lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -2651,14 +2649,6 @@ g.es("pelican 執行完畢")</t>
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20160107100015.8">&lt;section&gt;
-    &lt;h1&gt;心得和評分&lt;/h1&gt;
-    &lt;p&gt;這次上課得時候,很多東西都不會,但有了同學的幫忙,順利把問題解決了&lt;/br&gt;
-    我給自己的評分:73分&lt;/p&gt;
-
-&lt;/section&gt;
-				
-</t>
 <t tx="leo.20160107100015.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2719,8 +2709,7 @@ g.es("pelican 執行完畢")</t>
 </t>
 <t tx="leo.20160107100017.8">&lt;section&gt;
     &lt;h1&gt;心得和評分&lt;/h1&gt;
-    &lt;p&gt;這次上課得時候,很多東西都不會,但有了同學的幫忙,順利把問題解決了&lt;/br&gt;
-    我給自己的評分:73分&lt;/p&gt;
+    &lt;p&gt;這禮拜練習onshape，與 Creo Parametric 繪製 Nutcracker 機構相同，並且以小組為單位進行，onshape進行組別繪製有一個缺點，如果組員在群組進行繪製時可能造成自己所畫的零件，被其它隊員修改，所以團隊溝通非常重要，自己事先畫好零件在丟入群組比較好。:65分&lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -2785,8 +2774,7 @@ g.es("pelican 執行完畢")</t>
 </t>
 <t tx="leo.20160107100021.8">&lt;section&gt;
     &lt;h1&gt;心得和評分&lt;/h1&gt;
-    &lt;p&gt;這次上課得時候,很多東西都不會,但有了同學的幫忙,順利把問題解決了&lt;/br&gt;
-    我給自己的評分:73分&lt;/p&gt;
+    &lt;p&gt;上個的時候雖然很多東西都聽不懂，但是有了老師上課的教導，還有組員的幫忙，讓我在這門課學到了很多東西，:70分&lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -2799,6 +2787,14 @@ g.es("pelican 執行完畢")</t>
     });
 &lt;/script&gt;
 	
+</t>
+<t tx="leo.20160107113135.1">&lt;section&gt;
+    &lt;h1&gt;心得和評分&lt;/h1&gt;
+    &lt;p&gt;以小組為單位，繪製Nutcracker 機構，考驗團隊的向心力，假如沒有組員的幫忙，可能沒有辦法順利完成，onshape的組裝圖兩零件裝配時，無法完全拘束，還要再多加練習及詢問同學:70
+分&lt;/p&gt;
+
+&lt;/section&gt;
+				
 </t>
 </tnodes>
 </leo_file>
